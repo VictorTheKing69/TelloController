@@ -1,5 +1,5 @@
 # Tello Controller
-## An example Tello project for Scratch3-Tello
+An example Tello project for Scratch3-Tello
 
 ## How to setup
 ### 1. Installing Scratch3-Tello
